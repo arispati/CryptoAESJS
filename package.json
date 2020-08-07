@@ -1,0 +1,26 @@
+{
+  "name": "@arispati/crypto-aes",
+  "version": "0.1.0",
+  "description": "AES crypto library which can be used in php and javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arispati/CryptoAESJS.git"
+  },
+  "keywords": [
+    "crypto",
+    "AES"
+  ],
+  "author": "Muhamad Aris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arispati/CryptoAESJS/issues"
+  },
+  "homepage": "https://github.com/arispati/CryptoAESJS#readme",
+  "dependencies": {
+    "crypto-js": "^3.3.0"
+  }
+}
