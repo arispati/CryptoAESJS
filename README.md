@@ -4,7 +4,7 @@ AES crypto library which can be used in php and javascript (Javascript Version).
 If you want to use this library in PHP use the [CryptoAES](https://github.com/arispati/CryptoAES).
 
 ## How to Install
-- Install with composer
+- Install with npm
 ```bash
 npm install @arispati/crypto-aes
 ```
